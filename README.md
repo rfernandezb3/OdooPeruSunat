@@ -1,0 +1,2 @@
+# OdooPeruSunat
+RUT-FACTURACION-UBIGEO
